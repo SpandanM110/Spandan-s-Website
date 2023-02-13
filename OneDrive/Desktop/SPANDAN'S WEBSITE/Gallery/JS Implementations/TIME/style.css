@@ -1,0 +1,29 @@
+body{
+    background-repeat: no-repeat;
+    /* background-color: black; */
+    background-image: url("Space.jpg");
+    background-position: center;
+    background-size: covers;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    color: azure;
+    align-items: center;
+    /* padding-top: 35rem; */
+    font-style: oblique;
+}
+
+
+h4{
+    text-align: center;
+    color: azure;
+    padding-top: 250px;
+    /* font-size: 900%; */
+    /* text-decoration: overline; */
+    text-shadow: 2px 2px lightskyblue;
+    align-items: center;
+    font-size: 50px;    
+    font-variant-numeric: tabular-nums;
+}
